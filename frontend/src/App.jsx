@@ -49,10 +49,6 @@ const App = props => {
       setFilterRating(false)
     }
   }
-  // console.log('rate', movies);
-  // console.log('rating', rating.current.value);
-  // console.log('rateMovies', rateMovies);
-  // console.log('filter rate', filterRating);
 
   
 
